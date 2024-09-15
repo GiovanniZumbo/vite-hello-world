@@ -3,11 +3,15 @@
 </script>
 
 <template>
-    <section>
-        <h1> "La mia prima app con Vite!" </h1>
-    </section>
+
+  <div class="card">
+<h1>"La mia prima App con Vite!"</h1>
+  </div>
+
 </template>
 
 <style>
-
+.read-the-docs {
+  color: #888;
+}
 </style>
